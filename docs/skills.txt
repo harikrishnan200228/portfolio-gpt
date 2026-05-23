@@ -1,0 +1,6 @@
+Technical Skills:
+Languages: Python, JavaScript, SQL
+Frameworks: FastAPI, Streamlit, LangChain
+AI/ML: RAG, ChromaDB, HuggingFace, LangChain
+Databases: PostgreSQL, MongoDB, ChromaDB
+Tools: Git, Docker, VS Code

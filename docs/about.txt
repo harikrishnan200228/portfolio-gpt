@@ -1,0 +1,13 @@
+Name: Harikrishnan
+Location: Kerala, India
+Email: harikrishnan2002@gmail.com
+LinkedIn: linkedin.com/in/harikrishnan2002
+GitHub: github.com/harikrishnan2002
+
+Summary:
+I am a software engineer with experience in Python, AI and
+full-stack development. Passionate about building intelligent
+applications using LangChain, RAG and modern LLM frameworks.
+
+Education:
+B.Tech Computer Science, 2024
